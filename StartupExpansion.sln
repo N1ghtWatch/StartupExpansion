@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "StartupExpansion", "StartupExpansion\StartupExpansion.dtproj", "{D843A41A-2505-446C-9211-871476F5D40D}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "StartupExpansionSSRS", "StartupExpansionSSRS\StartupExpansionSSRS.rptproj", "{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D843A41A-2505-446C-9211-871476F5D40D}.Debug|Default.ActiveCfg = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.Debug|Default.Build.0 = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.DebugLocal|Default.ActiveCfg = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.DebugLocal|Default.Build.0 = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.Development|Default.ActiveCfg = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.Development|Default.Build.0 = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.Release|Default.ActiveCfg = Development
+		{D843A41A-2505-446C-9211-871476F5D40D}.Release|Default.Build.0 = Development
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Debug|Default.ActiveCfg = Debug
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Debug|Default.Build.0 = Debug
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Debug|Default.Deploy.0 = Debug
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.DebugLocal|Default.Build.0 = DebugLocal
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Development|Default.ActiveCfg = DebugLocal
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Development|Default.Build.0 = DebugLocal
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Release|Default.ActiveCfg = Release
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Release|Default.Build.0 = Release
+		{FC018C06-2CF7-48CA-BE36-C3E4E7E7217A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C471F2-BC5E-4179-AF24-9FF4B10DF7E1}
+	EndGlobalSection
+EndGlobal
